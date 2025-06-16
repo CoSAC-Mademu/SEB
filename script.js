@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://192.168.1.101:5000"; // Cambia con l'IP del tuo Raspberry
+const BACKEND_URL = "https://seb.itriasac.it"; // Cambia con l'IP del tuo Raspberry
 
 // Elementi UI
 const form = document.getElementById("nickname-form");
